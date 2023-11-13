@@ -1,2 +1,2 @@
 # Codes-for-EDA
-Diese Codes sind von Paul Kielhorn
+Some codes used for a research project
